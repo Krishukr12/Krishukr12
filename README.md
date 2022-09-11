@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://soft-unicorn-44888e.netlify.app/](https://soft-unicorn-44888e.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://krishankumarsafi.vercel.app//)
 
 - 💬 Ask me about **MERN**
 
