@@ -44,7 +44,7 @@
 <p><a href="https://www.buymeacoffee.com/krishankumD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="krishankumD" /></a></p><br><br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krishukr12&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
 ![sun](https://user-images.githubusercontent.com/101813593/185565292-eb111ecc-95fe-4734-9e5d-0f968c08c8e2.gif)
 
